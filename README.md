@@ -7,6 +7,7 @@ https://github.com/cp3402-students/cp3402-2021-site-cp3402-2021-group13/blob/mai
 
 theme. md
 In this document, we will help new developers continue to better develop our theme. We will include some relevant information or some edited documents, design decisions, etc., so as to better determine our theme content.
+https://github.com/cp3402-students/cp3402-2021-site-cp3402-2021-group13/blob/main/theme.md
 
 site. md
 In this file, we will tell those who already know WordPress taking over the running of the site itself: how to add a new content, such as adding pages, modifying pages and other information, and explain how the specific site is organized and maintained.
