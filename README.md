@@ -3,6 +3,7 @@ Our git file contains three other files: deployment MD and theme. MD and site MD
 
 deployment. md
 In this document, describe we development and deployment workflow in enough detail that a new team member or someone taking over the project could follow to successfully test and deploy theme updates to your staging and live sites.
+https://github.com/cp3402-students/cp3402-2021-site-cp3402-2021-group13/blob/main/deployment.md
 
 theme. md
 In this document, we will help new developers continue to better develop our theme. We will include some relevant information or some edited documents, design decisions, etc., so as to better determine our theme content.
