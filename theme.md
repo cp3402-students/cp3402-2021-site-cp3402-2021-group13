@@ -1,0 +1,5 @@
+Our website can add, modify, delete and other operations on website columns in the background. The biggest feature of the website we created is to manage the products and successfully display them on the front desk, including the product brand, product price, product style and other attributes.
+Shopping carts are a must-have feature for e-commerce sites. Users can add their favorite products to the cart, pay directly, or leave to browse other pages.
+First of all, we have a lot of categories of products, and the products will increase accordingly, so we have added a filtering function. Users may not have the patience to find categories. According to the category products, it will waste a lot of time, and they may not necessarily find the products they want. Therefore, according to Filter function, you can search according to the brand, color, price and style of the product.
+After the user purchases, they can evaluate the product. Of course, we also want to develop a member management module of the website, which can register, accumulate points, and buy more discounted products. However, due to time constraints, there is no way to achieve this function.
+
